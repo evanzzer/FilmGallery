@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Film Gallery</string>
+
+    <!-- Home Fragment -->
+    <string name="movie">Movie</string>
+    <string name="tvShow">TV Show</string>
+    <string name="favorite">Favorite</string>
+    <!-- MovieEntity Item -->
+    <string name="title">Title</string>
+    <string name="date">Released Date</string>
+    <string name="category">Category</string>
+    <!-- Detail -->
+    <string name="dateRelease">Released %s</string>
+    <string name="description">Description</string>
+    <!-- Share Film -->
+    <string name="shareTitle">Share the Film</string>
+    <string name="shareDescription">Check out this film!
+        https://www.themoviedb.org/%s/%d</string>
+    <!-- Snackbar Message -->
+    <string name="messageUndoAlert">Undo deleting item?</string>
+    <string name="messageUndoButton">Undo</string>
+    <string name="share">Share</string>
+    <!-- Fragment Action -->
+    <string name="newest">Newest</string>
+    <string name="oldest">Oldest</string>
+    <string name="refresh">refresh</string>
+</resources>
